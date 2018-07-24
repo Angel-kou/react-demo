@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders App correctly 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <h1
+      className="App-title"
+    >
+      react demo 2018
+    </h1>
+  </header>
+  <p
+    className="App-intro"
+  >
+    react demo
+  </p>
+  <button
+    id="btn1"
+    onClick={[Function]}
+  >
+    change appName
+  </button>
+  <button
+    id="btn2"
+    onClick={[Function]}
+  >
+    change desc
+  </button>
+  <div />
+</div>
+`;
